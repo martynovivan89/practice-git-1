@@ -1,2 +1,4 @@
 echo My first line in project
 Paris is the capitel of France
+Super
+Duper
